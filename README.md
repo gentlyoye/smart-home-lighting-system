@@ -1,11 +1,11 @@
 # Smart Home Motion-Based Lighting System
 
-This project implements a smart home lighting system using an Arduino,
-a PIR motion sensor, an override button, and an RGB LED.
+This project demonstrates an automated smart home lighting system
+designed using Arduino and simulated in Tinkercad.
 
 ## Features
-- Motion-based automatic lighting
-- Auto-off after inactivity
+- Motion-based automatic lighting (PIR sensor)
+- Automatic light turn-off after inactivity
 - Manual override button
 - Simulated bedtime shutoff
 - Warm white RGB lighting (255, 245, 205)
@@ -15,8 +15,10 @@ The full, runnable Tinkercad simulation can be accessed here:
 https://www.tinkercad.com/things/fMt9uYD06Ob-task-2
 
 ## Repository Contents
-
+- Arduino source code
+- Circuit diagram export
+- Project explanation report
 
 ## Notes
-Due to Tinkercad being cloud-based, the project is shared via a public 
+Due to Tinkercad being cloud-based, the project is shared using a public
 link to allow full inspection and simulation.
